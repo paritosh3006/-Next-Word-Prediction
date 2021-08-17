@@ -1,4 +1,4 @@
-**# -Next-Word-Prediction**
+**Next-Word-Prediction**
 
 **Next Word Prediction (also called Language Modelling) is the task of predicting what word comes next. It is one of the fundamental tasks of NLP.**
 
